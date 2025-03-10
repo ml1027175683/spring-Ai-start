@@ -19,11 +19,7 @@ import java.time.LocalDate;
 import static org.springframework.ai.chat.client.advisor.AbstractChatMemoryAdvisor.CHAT_MEMORY_RETRIEVE_SIZE_KEY;
 
 
-/**
- * @author xushu
- * @version 1.0
- * @description:
- */
+
 @RestController
 @CrossOrigin
 public class OpenAiController {

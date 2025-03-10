@@ -1,3 +1,7 @@
 spring:
   application:
     name: spring-Ai-test
+
+
+  spring.ai.dashscope.api-key
+  spring.ai.dashscope.chat.options.model=qwen-max
