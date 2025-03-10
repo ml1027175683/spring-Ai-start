@@ -15,9 +15,13 @@ target/
 
 ### IntelliJ IDEA ###
 .idea
+.fastRequest
 *.iws
 *.iml
 *.ipr
+.mvn
+mvnw
+mvnw.cmd
 
 ### NetBeans ###
 /nbproject/private/
